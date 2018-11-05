@@ -1,2 +1,0 @@
-Training > push and pull
-
